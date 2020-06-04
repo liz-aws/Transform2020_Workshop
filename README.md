@@ -8,11 +8,14 @@ Liz Dennett tutorial for Transform 2020
 # coding: utf-8
 
 # Test notebook
-# # 1
-# ##  2
+# 1
+##  2
 # 2
 #
-# Bold *text* **two**
+*one astrix*
+**two astrix**
+_underscore_
+-hypehn-
 
 #
 # ### Background
