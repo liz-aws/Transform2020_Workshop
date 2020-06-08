@@ -1,10 +1,10 @@
 
-###Welcome to your new assignment!
+### Welcome to your new assignment!
 
 You are a Cloud Consultant who is beginning an assignment at *Unicorn Reservoir Charachterization (URC)* a new tool for geological analysis that "will change how much your rocks rock!"
 
 In this session, you will meet with the *URC* team, and design a scalable arcitecture that meets their requirments.
-What are their requirments? What will this system do? How does the data go from a rock to a data science notebook? 
+What are their requirments? What will this system do? How does the data go from a rock to a data science notebook?
 
 Well, to answer those questions, you simply have to show up and ask them.
 
