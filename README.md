@@ -16,15 +16,11 @@ In this session, you'll meet some of the key stakeholders at *URC*, learn about 
 
 
 ### Learning Objectives
-Understand the basics of translating business requirements to technical requirements
-
-Knowledge about key AWS Services and where to learn more
-
-Techniques for whiteboarding successfully
-
-What the AWS Well-Architected Framework is and how to use it
-
-How to take those great ideas and architecture and do something with them
+* Understand the basics of translating business requirements to technical requirements
+* Knowledge about key AWS Services and where to learn more
+* Techniques for whiteboarding successfully
+* What the AWS Well-Architected Framework is and how to use it
+* How to take those great ideas and architecture and do something with them
 
 ### Background
 Data engineering and systems architecture is a necessary precursor to delivering data-driven subsurface insights. As a geologist or geophysicist, systems design typically isn’t something you learn in school, yet it can be a necessary skill set to progress your career and drive meaningful change.
@@ -33,8 +29,8 @@ Data engineering and systems architecture is a necessary precursor to delivering
 This session will present an overview of the key concepts and design principles for building a scalable and cloud-optimized infrastructure in line with the AWS Well-Architected Framework, with a specific focus on Energy-Industry use cases and accompanying challenges for subsurface professionals. Attendees will leave this session with techniques for outlining technical requirements, knowledge of key AWS services and solutions, an overview of the AWS Well-Architected Framework, and an understanding of how to design for scalable and resilient solutions that can be implemented to improve subsurface workflows.
 
 ### Agenda
-Working backwards: User stories to drive technical requirements
-Services, solutions, and scalability
-Whiteboarding as a superpower
-The AWS Well-Architected Framework
-Now what? How to communicate and drive architectural improvements
+* Working backwards: User stories to drive technical requirements
+* Services, solutions, and scalability
+* Whiteboarding as a superpower
+* The AWS Well-Architected Framework
+* Now what? How to communicate and drive architectural improvements
