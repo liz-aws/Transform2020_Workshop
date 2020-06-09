@@ -1,18 +1,29 @@
 
 ### Welcome to your new assignment!
 
-You are a Cloud Consultant who is beginning an assignment at *Unicorn Reservoir Charachterization (URC)* a new tool for geological analysis that "will change how much your rocks rock!"
+You are a Cloud Consultant who is beginning an assignment at *Unicorn Reservoir Charachterization (URC)* * a new tool for geological analysis that "will change how much your rocks rock!"
 
-In this session, you will meet with the *URC* team, and design a scalable arcitecture that meets their requirments.
-What are their requirments? What will this system do? How does the data go from a rock to a data science notebook?
+In this session, you will meet with the *URC* team, and design a scalable architecture that meets their requirements.
+What are their requirements? What will this system do? How does the data go from a rock to a data science notebook?
 
 Well, to answer those questions, you simply have to show up and ask them.
 
+In this session, you will be an Architect responsible to translating business requirements to technical requirements, white boarding out an architectural diagram, and then figuring out how to take your great ideas and translate them into actionable next steps.
+
+In this session, you'll meet some of the key stakeholders at *URC*, learn about their goals, and design a system to meet their vision of "Being the Rock Stars of the Reservoir Characterization World"  
+
+* *Note  that Unicorn Reservoir Characterization (URC) is a fictitious company and any overlap with real companies and products is purely coincidental*
+
+
 ### Learning Objectives
 Understand the basics of translating business requirements to technical requirements
+
 Knowledge about key AWS Services and where to learn more
+
 Techniques for whiteboarding successfully
+
 What the AWS Well-Architected Framework is and how to use it
+
 How to take those great ideas and architecture and do something with them
 
 ### Background
